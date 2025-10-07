@@ -29,7 +29,7 @@ Here’s the exact **README.md** text you can use to match the style shown in yo
 
 Once the MCP Bridge is running, the AI can create and manage a project directly in your local directory. Your workspace in an editor like VS Code will look something like this, with the AI handling the creation of a clean, multi-file architecture based on your requests.
 
-```
+`
 
 my-nextjs-app/
 ├── node_modules/
@@ -51,7 +51,7 @@ my-nextjs-app/
 ├── package-lock.json
 └── README.md
 
-```
+`
 ---
 
 Would you like me to make this README look **more styled** (for example, with emojis, colors using Markdown tricks, or sections like *“Installation”* and *“Usage”*)?
