@@ -54,7 +54,7 @@ my-nextjs-app/
 `
 ---
 
-Would you like me to make this README look **more styled** (for example, with emojis, colors using Markdown tricks, or sections like *“Installation”* and *“Usage”*)?
+
 ```
 
 
