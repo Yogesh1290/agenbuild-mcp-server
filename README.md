@@ -22,4 +22,8 @@ That's it! The server is now running. The "Local Sync" indicator in the AgenBuil
 
 
 ## License
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+This MCP server is released under the **CC BY-NC 4.0** license.
+
+You are free to use and modify this project for personal and educational purposes only.  
+Commercial use, resale, or integration into paid products is **not permitted**.
+
