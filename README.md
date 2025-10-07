@@ -20,9 +20,4 @@ This folder contains everything you need to run the local server for real-time f
 
 That's it! The server is now running. The "Local Sync" indicator in the AgenBuild app should turn green.
 
-## License
-This MCP server is released under the **CC BY-NC 4.0** license.
-
-You are free to use and modify this project for personal and educational purposes only.  
-Commercial use, resale, or integration into paid products is **not permitted**.
 
