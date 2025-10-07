@@ -21,3 +21,5 @@ This folder contains everything you need to run the local server for real-time f
 That's it! The server is now running. The "Local Sync" indicator in the AgenBuild app should turn green.
 
 
+## License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
